@@ -1,2 +1,2 @@
 # cloudimg
-pic
+pic for PicGo
